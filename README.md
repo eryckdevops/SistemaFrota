@@ -22,14 +22,16 @@
 </h4>
 
 <br/>
+
 ## tecnologias usadas:
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://img.icons8.com/ios/452/sql.png" alt="SQL" width="100" height="100">
     <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-1174925.png" alt="Javascript.js" width="100" height="100">
     <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" alt="CSS" width="100" height="100">
     <img src="https://hermes.dio.me/articles/cover/1ee9c50a-fccd-4ec8-b57a-6a592a157a6d.png" alt="HTML" width="100" height="100">
 </div>
+
 
 <a href="">
 	<img src="./.github/screenshots.gif">
